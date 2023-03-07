@@ -6,7 +6,7 @@
 # cmmt1
 # cmmt2
 # cmmt3
-# 1st
+# 1st 2nd
 # Naming cheatsheet
 
 - [English language](#english-language)
